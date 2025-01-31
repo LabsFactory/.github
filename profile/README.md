@@ -1,4 +1,4 @@
-## Hi there 👋 welcome to Kyverno!
+## Hi there 👋 welcome to LabsFactory!
 
 <!--
 
